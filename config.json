@@ -1,6 +1,6 @@
 {
     "shop": {
-        "enabled": true,
+        "enabled": false,
         "domain": "7fcaa9-2d.myshopify.com",
         "access_token": "70b2d3d1f874b531aca714b82cd033bb"
     }
