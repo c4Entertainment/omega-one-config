@@ -1,6 +1,6 @@
 {
     "shop": {
-        "enabled": true,
+        "enabled": false,
         "domain": "ksshqy-9h.myshopify.com",
         "access_token": "a414f871dd2ba573e1ade1f2c765bc27"
     }
